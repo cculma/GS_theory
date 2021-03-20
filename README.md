@@ -1,11 +1,8 @@
 # This is the temp repositiory to implement genomic selection #
 
-This is the temp repositiory to implement genomic selection.
+## Multi-trait genomic selection (MTGS) ##
+MTGS assings weights to different traits relative to their economic importance: index selection. Classical index selection only optimizes genetic gain in the next generation and requires optimizing nonlinear breeding objectives.
 
-Multi-trait genomic selection (MTGS)
-MTGS assings weights to different traits relative to their economic importance: index selection
-
-Classical index selection only optimizes genetic gain in the next generation and requires optimizing nonlinear breeding objectives
 Approach maximizing certain traits while keeping others within desirable ranges.
 LAS = look-ahead selection algorithm
 LAMS = look-ahead mate selection 
