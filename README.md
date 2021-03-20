@@ -1,5 +1,4 @@
-# temp
-Markup :  # This is the temp repositiory to implement genomic selection #
+# This is the temp repositiory to implement genomic selection #
 
 This is the temp repositiory to implement genomic selection.
 
