@@ -1,5 +1,10 @@
 # This is the temp repositiory to implement genomic selection #
 
+
+## covariance ##
+
+In genetics, covariance serves a basis for computation of kinship matrix (genetic relationship matrix (GRM)) enabling inference on population structure from sample with no known close relatives as well as inference on estimation of heritability of complex tratis
+
 ## Multi-trait genomic selection (MTGS) ##
 MTGS assings weights to different traits relative to their economic importance: index selection. Classical index selection only optimizes genetic gain in the next generation and requires optimizing nonlinear breeding objectives.
 
