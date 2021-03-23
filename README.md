@@ -51,5 +51,7 @@ Use of BLUEs estimates are used with genomic data to estimate marker weights pri
 
 PLS-CA: Partial Least Squares Canonical Analysis
 
-<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{\infty} \frac{1}{n^s} = \prod_p \frac{1}{1 - p^{-s}}">(3)
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1}^{\infty} \frac{1}{n^s} = \prod_p \frac{1}{1 - p^{-s}}"> (3)
+
+
 
