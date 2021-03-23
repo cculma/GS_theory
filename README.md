@@ -43,3 +43,16 @@ Pareto efficiency is a state where resources are allocated in the most efficient
 The accuracy of genomic prediction critically depends on the level of relatedness between the training population and the testing population
 The use of multivariate linear mixed models in genetic evaluations provides a basis for inference about traits' integration
  
+## PLS-CA ##
+
+GS using all markers
+GS using marker selection
+Use of BLUEs estimates are used with genomic data to estimate marker weights prior to cosntruction of the marker based relationship matrix
+
+PLS-CA: Partial Least Squares Canonical Analysis
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+$`\sqrt{2}`$
+
